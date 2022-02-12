@@ -1,2 +1,2 @@
 # Aloha
- It is a fashion and lifestyle related website
+ Fashion and lifestyle related website

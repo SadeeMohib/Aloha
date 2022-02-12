@@ -1,0 +1,249 @@
+F:\num\Aloha\Aloha\bin\Aloha.dll.config
+F:\num\Aloha\Aloha\bin\Aloha.dll
+F:\num\Aloha\Aloha\bin\Aloha.pdb
+F:\num\Aloha\Aloha\bin\roslyn\csc.exe
+F:\num\Aloha\Aloha\bin\roslyn\csc.exe.config
+F:\num\Aloha\Aloha\bin\roslyn\csc.rsp
+F:\num\Aloha\Aloha\bin\roslyn\csi.exe
+F:\num\Aloha\Aloha\bin\roslyn\csi.exe.config
+F:\num\Aloha\Aloha\bin\roslyn\csi.rsp
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.Managed.Core.targets
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\num\Aloha\Aloha\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.AppContext.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Collections.Immutable.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Console.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Globalization.Calendars.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.IO.Compression.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.IO.FileSystem.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Net.Http.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Net.Sockets.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Reflection.Metadata.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.ValueTuple.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Xml.XmlDocument.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Xml.XPath.dll
+F:\num\Aloha\Aloha\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\num\Aloha\Aloha\bin\roslyn\vbc.exe
+F:\num\Aloha\Aloha\bin\roslyn\vbc.exe.config
+F:\num\Aloha\Aloha\bin\roslyn\vbc.rsp
+F:\num\Aloha\Aloha\bin\roslyn\VBCSCompiler.exe
+F:\num\Aloha\Aloha\bin\roslyn\VBCSCompiler.exe.config
+F:\num\Aloha\Aloha\bin\Antlr3.Runtime.dll
+F:\num\Aloha\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\num\Aloha\Aloha\bin\Microsoft.Web.Infrastructure.dll
+F:\num\Aloha\Aloha\bin\Newtonsoft.Json.dll
+F:\num\Aloha\Aloha\bin\System.Web.Helpers.dll
+F:\num\Aloha\Aloha\bin\System.Web.Mvc.dll
+F:\num\Aloha\Aloha\bin\System.Web.Optimization.dll
+F:\num\Aloha\Aloha\bin\System.Web.Razor.dll
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.Deployment.dll
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.dll
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.Razor.dll
+F:\num\Aloha\Aloha\bin\WebGrease.dll
+F:\num\Aloha\Aloha\bin\System.Web.Helpers.xml
+F:\num\Aloha\Aloha\bin\System.Web.Mvc.xml
+F:\num\Aloha\Aloha\bin\System.Web.Optimization.xml
+F:\num\Aloha\Aloha\bin\System.Web.Razor.xml
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.xml
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.Deployment.xml
+F:\num\Aloha\Aloha\bin\System.Web.WebPages.Razor.xml
+F:\num\Aloha\Aloha\bin\Newtonsoft.Json.xml
+F:\num\Aloha\Aloha\bin\Antlr3.Runtime.pdb
+F:\num\Aloha\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\num\Aloha\Aloha\obj\Debug\Aloha.csproj.AssemblyReference.cache
+F:\num\Aloha\Aloha\obj\Debug\Aloha.csproj.CoreCompileInputs.cache
+F:\num\Aloha\Aloha\obj\Debug\Aloha.csproj.CopyComplete
+F:\num\Aloha\Aloha\obj\Debug\Aloha.dll
+F:\num\Aloha\Aloha\obj\Debug\Aloha.pdb
+F:\num\Aloha\Aloha\bin\EntityFramework.dll
+F:\num\Aloha\Aloha\bin\EntityFramework.SqlServer.dll
+F:\num\Aloha\Aloha\bin\EntityFramework.xml
+F:\num\Aloha\Aloha\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Aloha.dll.config
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Aloha.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Aloha.pdb
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\WebGrease.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\Aloha\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Aloha\Aloha\obj\Debug\Aloha.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Aloha\Aloha\obj\Debug\Aloha.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Aloha\Aloha\obj\Debug\Aloha.csproj.CopyComplete
+C:\Users\Dell\Desktop\Aloha\Aloha\obj\Debug\Aloha.dll
+C:\Users\Dell\Desktop\Aloha\Aloha\obj\Debug\Aloha.pdb
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Aloha.dll.config
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Aloha.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Aloha.pdb
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csc.exe
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csc.exe.config
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csc.rsp
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csi.exe
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csi.exe.config
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\csi.rsp
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.AppContext.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Console.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.IO.Compression.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Net.Http.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Net.Sockets.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.ValueTuple.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Xml.XPath.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\vbc.exe
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\vbc.exe.config
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\vbc.rsp
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\VBCSCompiler.exe
+D:\3.2lab material\Aloha_Clone\Aloha\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Antlr3.Runtime.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\EntityFramework.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\EntityFramework.SqlServer.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Newtonsoft.Json.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Helpers.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Mvc.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Optimization.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Razor.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.Deployment.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.Razor.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\WebGrease.dll
+D:\3.2lab material\Aloha_Clone\Aloha\bin\EntityFramework.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\EntityFramework.SqlServer.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Helpers.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Mvc.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Optimization.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.Razor.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.Deployment.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\System.Web.WebPages.Razor.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Newtonsoft.Json.xml
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Antlr3.Runtime.pdb
+D:\3.2lab material\Aloha_Clone\Aloha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2lab material\Aloha_Clone\Aloha\obj\Debug\Aloha.csproj.AssemblyReference.cache
+D:\3.2lab material\Aloha_Clone\Aloha\obj\Debug\Aloha.csproj.CoreCompileInputs.cache
+D:\3.2lab material\Aloha_Clone\Aloha\obj\Debug\Aloha.csproj.CopyComplete
+D:\3.2lab material\Aloha_Clone\Aloha\obj\Debug\Aloha.dll
+D:\3.2lab material\Aloha_Clone\Aloha\obj\Debug\Aloha.pdb
